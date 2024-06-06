@@ -1,4 +1,4 @@
-# comp3900_git_primer
+# comp39/9900_git_primer
 
 ```
 repository/
@@ -12,11 +12,11 @@ To run this application use `python3 main.py`. You will need to first install `P
 
 ## Exercises
 
-There are some bugs in this code and features we need to add. To make sure you have correctly installed Flask and cloned this repo, when you run the application and open the link in your browser (http://127.0.0.1:5000/) you should see a welcome page that says "Welcome to COMP3900".
+There are some bugs in this code and features we need to add. To make sure you have correctly installed Flask and cloned this repo, when you run the application and open the link in your browser (http://127.0.0.1:5000/) you should see a welcome page that says "Welcome to COMP39/9900".
 
 Setting up the repo
 * You will be cloning my repo but working on your own. To do this, you must first setup your own personal Github account and create a **PRIVATE** repo called `comp3900_git_primer`.
-* Next, clone my repo from Github at https://github.com/Dhruv-A/comp3900_git_primer and then `cd comp3900_git_primer` to go into the repo.
+* Next, clone my repo from Github at https://github.com/Dhruv-A//99_git_primer and then `cd comp3900_git_primer` to go into the repo.
 * We are going to transfer this to your Github repo. To do this, use the command `git remote set-url origin git@github.com:GITHUB_USERNAME/REPO_NAME.git` replacing `GITHUB_USERNAME` and `REPO_NAME` with the ones for the repo you created.
 * Now run `git push` and you can get started with the exercise.
 
